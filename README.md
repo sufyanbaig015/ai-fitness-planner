@@ -2,11 +2,6 @@
 
 Personalized diet and workout programs powered by **OpenAI + Agno agents**, with a professional **Next.js** coaching dashboard.
 
-> **Suggested GitHub repo name:** `crock-ai-fitness-planner`  
-> Alternatives: `ai-health-fitness-planner` · `ai-coach-plan-builder` · `fitcoach-ai-planner`
-
----
-
 ## Features
 
 - **Dietary Expert agent** — structured daily meals, macros, and considerations  
